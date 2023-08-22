@@ -1,7 +1,0 @@
-This code repository is intended for public view, review, and comment only. The contents of this repository, including code, are provided as-is, and we make no representations or warranties, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the information, products, services, or related graphics contained in this repository for any purpose.
-
-While we are happy to share this code for educational purposes and peer review, please note that it is not intended for direct implementation or replication without further testing and validation on your part. We expressly prohibit the use of this code for any form of software production, distribution, or any commercial/non-commercial application without the express permission of the copyright holder.
-
-In the event that any individual or entity chooses to use the code found within this repository, they do so at their own risk. The creators or contributors to this code will not be liable for any direct, indirect, consequential, or incidental damages or any damages whatsoever, whether in an action of contract, negligence or other tort, arising out of or in connection with the use of the code or the contents of this repository.
-
-By accessing or using any part of this repository, you agree to be bound by these terms.
